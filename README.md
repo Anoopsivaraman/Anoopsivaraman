@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Anoopsivaraman
-- 👀 I’m interested in Monitoring tools, small and medium level automations and API scripting
+- I am a technical lead with more than 13 years of experience in various monitring tools
+- 👀 I’m interested in small and medium level automations and API scripting
 - 🌱 I’m currently learning python 
 - 📫 You can reach me on anshiv1988@gmail.co
 
